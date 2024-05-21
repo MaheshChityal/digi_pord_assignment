@@ -53,7 +53,7 @@ class DealOfDayCard extends StatelessWidget {
                       height: 250,
                       width: double.infinity,
                       fit: BoxFit.cover,
-                    ), // Replace with appropriate image
+                    ), 
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text('HRX by Hrithik Roshan',

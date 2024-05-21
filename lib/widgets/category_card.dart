@@ -13,7 +13,7 @@ class CategoryCard extends StatelessWidget {
           CircleAvatar(
             radius: 35,
             backgroundImage: AssetImage(
-                'assets/$title.jpg'), // Replace with appropriate image
+                'assets/$title.jpg'), 
           ),
           SizedBox(height: 8),
           Text(title),
